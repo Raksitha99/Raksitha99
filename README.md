@@ -9,7 +9,7 @@
 <h2 align="center"> True success is found in giving your best effort, no matter the challenge. Strive for excellence, even when the road is tough..✨ </h2>
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="">
+  <img width="50%" align="right"  src="![1645827831050](https://github.com/user-attachments/assets/d57ab0ca-1e05-4502-8678-d4305b835c72)" alt="">
 </p>
 
 <div>
