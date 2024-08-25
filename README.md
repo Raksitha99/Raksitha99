@@ -43,6 +43,11 @@ What I really enjoy is bringing all my skills together. I want to use my knowled
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Imeshadilshani) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ImeshaDilshani3)-->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rakshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshitha" height="30" width="40" /></a>
+</p>
+
 <!--
 <h3 align="left">💼 Skills and Tools</h3>
 <p align="center"> 
