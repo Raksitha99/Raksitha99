@@ -71,11 +71,15 @@ What I really enjoy is bringing all my skills together. I want to use my knowled
 </div>
 
 <div align="center">
-<p>
-  <div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raksitha99&theme=algolia&hide_border=false" alt="" /> </div>
-  <div align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raksitha99&theme=2077" alt="" /> </div>
+  <table>
+  <tr>
+    <td><div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raksitha99&theme=algolia&hide_border=false" alt="" /></td> </div>
+    </tr>
+    <tr>
+     <td><div align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raksitha99&theme=2077" alt="" /></td> </div>
+    <tr>
+  </table>
 
-</p>
 </div>
 <h3 align="left">📈 GitHub Stats</h3>
 
