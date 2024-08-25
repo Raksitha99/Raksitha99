@@ -34,7 +34,7 @@ What I really enjoy is bringing all my skills together. I want to use my knowled
 | weatherpro                               | [repository](https://github.com/ImeshaDilshani/weatherpro-django.git)                                | Provides current weather information for a specific city, utilizing the Open Weather API.                                       |
 
 
-<h3 align="left"> 🔗 Connect with me:</h3>
+<h3 align="left"> 🔗 Connect with Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rakshitha-amarakoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshitha" height="30" width="40" /></a>
   
@@ -74,6 +74,5 @@ What I really enjoy is bringing all my skills together. I want to use my knowled
 </p>
   </div> 
 
-
-### 🔝 Top Contributed Repo
+<h3 align="left">🔝 Top Contributed Repo </h3>
 ![](https://github-contributor-stats.vercel.app/api?username=Raksitha99&limit=5&theme=radical&combine_all_yearly_contributions=true)
