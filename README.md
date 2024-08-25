@@ -8,14 +8,13 @@
 
 
 <p align="center">
-  <img width="50%" align="right"  src="![3384f5dabfe1e963298fc3f44159c52ca52535f3r1-1080-1920v2_uhq](https://github.com/user-attachments/assets/7b92f5c9-43e4-41e1-a60f-d9e34d65d20e)" alt="">
-  <!--![3384f5dabfe1e963298fc3f44159c52ca52535f3r1-1080-1920v2_uhq](https://github.com/user-attachments/assets/7b92f5c9-43e4-41e1-a60f-d9e34d65d20e)-->
-
+  <img width="50%" align="right"  src="" alt="">
 </p>
 
-<div>
-Hi! I'm Raksitha Amarakoon, a computer science undergraduate specializing in AI, currently interning as a software engineer at Control Union Inspection Private Limited, Sri Lanka. I also serve as the chairperson of the IEEE Computer Society at the University of Kelaniya.
 
+<div>
+Hi! I'm a computer science undergraduate specializing in AI, currently interning as a software engineer at Control Union Inspection Private Limited, Sri Lanka. I also serve as the chairperson of the IEEE Computer Society at the University of Kelaniya.
+  
 - 👯 I’m looking to collaborate on community projects.
 - 🌱 I'm currently working with Angular for front-end development.
 - ⚡ Love to travel during my free time and watch movies.
@@ -23,7 +22,7 @@ Hi! I'm Raksitha Amarakoon, a computer science undergraduate specializing in AI,
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📫 How to reach me: [linkedin](//www.linkedin.com/in/rakshitha-amarakoon/)
 
-What I really enjoy is bringing all my skills together. I want to use my knowledge in AI, software engineering, and front-end development to create innovative solutions in the tech world. I'm always seeking new challenges and opportunities to make an impact.
+What I enjoy is bringing all my skills together. I want to use my knowledge in AI, software engineering, and front-end development to create innovative solutions in the tech world. I'm always seeking new challenges and opportunities to make an impact.
 </div>
 
 
