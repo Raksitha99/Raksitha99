@@ -12,6 +12,7 @@
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
 
+<div>
 Hi! I'm Raksitha Amarakoon, a computer science undergraduate specializing in AI, currently interning as a software engineer at Control Union Inspection Private Limited, Sri Lanka. I also serve as the chairperson of the IEEE Computer Society at the University of Kelaniya.
 
 - 👯 I’m looking to collaborate on community projects.
@@ -22,7 +23,7 @@ Hi! I'm Raksitha Amarakoon, a computer science undergraduate specializing in AI,
 - 📫 How to reach me: [linkedin](//www.linkedin.com/in/rakshitha-amarakoon/)
 
 What I really enjoy is bringing all my skills together. I want to use my knowledge in AI, software engineering, and front-end development to create innovative solutions in the tech world. I'm always seeking new challenges and opportunities to make an impact.
-
+</div>
 
 
 ## 👩‍💻 My Works
