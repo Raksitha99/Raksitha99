@@ -74,12 +74,12 @@ What I really enjoy is bringing all my skills together. I want to use my knowled
 </p>
 </div>
 
-<!--<table>
+<table>
   <tr> 
 <td><img src="https://github-readme-stats.vercel.app/api?username=Raksitha99&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksitha99&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt=""/></td>
   </tr>
-</table> -->
+</table>
 
 <!-- <div align="center"> -->
 <p>
