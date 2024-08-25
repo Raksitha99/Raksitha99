@@ -77,5 +77,5 @@ What I really enjoy is bringing all my skills together. I want to use my knowled
 
 <h3 align="left">📈 GitHub Stats</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=ImeshaDilshani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Raksitha99&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
