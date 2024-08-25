@@ -67,11 +67,9 @@ What I really enjoy is bringing all my skills together. I want to use my knowled
 <td><img src="https://github-readme-stats.vercel.app/api?username=Raksitha99&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksitha99&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt=""/></td>
   </tr>
-</table>
 </div>
 
 <div align="center">
-  <table>
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raksitha99&theme=algolia&hide_border=false" alt="" /></td>
     </tr>
